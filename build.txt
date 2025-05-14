@@ -1,0 +1,3 @@
+displayName = Random Mod Button
+author = GabeHasWon
+version = 0.1
