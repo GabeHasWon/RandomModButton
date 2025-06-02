@@ -1,1 +1,6 @@
-Modify this file with a description of your mod.
+-- Random Mod Button --
+by GabeHasWon
+commissioned by Tubbsy
+
+This mod adds an "Enable Random" button to the Modpacks menu, allowing you to enable one random mod from a modpack automatically.
+"Quick Random" does the same but doesn't automatically reload the mods.
